@@ -1,4 +1,5 @@
 {
+  "name": "react-data-grid",
   "private": true,
   "license": "MIT",
   "scripts": {
